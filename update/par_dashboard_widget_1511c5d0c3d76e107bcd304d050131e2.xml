@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">0a708990c3d76e107bcd304d0501313d</canvas>
+        <component display_value="Image">15fe506403f8a98575b6df59008ea8f1</component>
+        <component_props>{"src":"/now-image-placeholder.jpg","sources":[],"fit":"fill","position":"center center","width":null,"height":null,"alt":"","href":null,"configAria":"{\"link\":{}}","landmark":null,"supportRtl":false,"id":"sources","value":[],"propLabel":"Image sources"}</component_props>
+        <h>13</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-07 09:36:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1511c5d0c3d76e107bcd304d050131e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_widget_1511c5d0c3d76e107bcd304d050131e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-07 09:36:53</sys_updated_on>
+        <visualization/>
+        <w>13</w>
+        <widget_props/>
+        <x>0</x>
+        <y>13</y>
+    </par_dashboard_widget>
+</record_update>

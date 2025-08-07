@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="NeedIt Application">ce708150c3d76e107bcd304d05013159</dashboard>
+        <dashboard_tab display_value="Tab 1">86708990c3d76e107bcd304d05013121</dashboard_tab>
+        <layout>[{"sys_id":"1511c5d0c3d76e107bcd304d050131e2","x":0,"y":13,"w":13,"h":13,"component_id":"15fe506403f8a98575b6df59008ea8f1","component_props":"{\"src\":\"/now-image-placeholder.jpg\",\"sources\":[],\"fit\":\"fill\",\"position\":\"center center\",\"width\":null,\"height\":null,\"alt\":\"\",\"href\":null,\"configAria\":\"{\\\"link\\\":{}}\",\"landmark\":null,\"supportRtl\":false,\"id\":\"sources\",\"value\":[],\"propLabel\":\"Image sources\"}","can_edit":true},{"sys_id":"1d11c5d0c3d76e107bcd304d050131df","x":0,"y":0,"w":49,"h":13,"component_id":"2b1c080881e05dc63b917044290b233f","component_props":"{\"table\":\"task\",\"columnPreferenceKey\":\"\",\"fixedQuery\":\"\",\"followFilters\":true,\"listTitle\":\"All Active Tasks\",\"columns\":\"\",\"maxColumns\":5,\"query\":\"active=true\",\"groupByField\":\"\",\"limit\":null,\"hideViewAll\":false,\"hideHighlightedValues\":false,\"showBorder\":false,\"bare\":true,\"highlightedValueConfigId\":\"\",\"hideHighlightContent\":false,\"highlightContent\":{\"patterns\":[],\"color\":\"\"},\"hideLinks\":false,\"nrlLandmark\":true,\"wordWrap\":false,\"overrideWordWrapUserPref\":false,\"maxCharLimit\":4000,\"hideEmptyStateImage\":false,\"hidePersonalization\":false,\"hideDotwalk\":false,\"hideColumnReorder\":false,\"hideRowSelector\":false,\"hideColumnGrouping\":false,\"hideColumnResizing\":false,\"hideColumnFiltering\":false,\"hideColumnSorting\":false,\"hideHeader\":false,\"hideTitle\":false,\"hideTitleRowCount\":false,\"hideLastRefreshedText\":false,\"hideRefreshButton\":false,\"hideInlineEditing\":false,\"isDashboard\":true}","can_edit":true}]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-07 09:34:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0a708990c3d76e107bcd304d0501313d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_canvas_0a708990c3d76e107bcd304d0501313d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-07 09:36:53</sys_updated_on>
+    </par_dashboard_canvas>
+</record_update>

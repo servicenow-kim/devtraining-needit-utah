@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">5511c5d0c3d76e107bcd304d050131d9</canvas>
+        <component display_value="Column">2bd5dc19a7ad083941b7c992a966dd78</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":false,"disableTooltip":false,"showXGrid":false,"showYGrid":true,"xAxisTitle":"","hideYAxis0":false,"yAxis0Position":"left","hideYAxis1":false,"yAxis1Position":"right","hideYAxis2":false,"yAxis2Position":"right","hideYAxis3":false,"yAxis3Position":"right","hideYAxis4":false,"yAxis4Position":"right","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"yAxisStyle":"default","lineStrokeWidth":"2","colorConfig":{"type":"default"},"chartVariation":"stacked","extensionType":"bar","newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"allowRealTime":false,"allowTotalValue":false,"indicatorType":"2","isScriptedIndicator":false,"label":"On-Call: % of Acknowledged Escalations","sourceType":"indicator","uuid":{"indicator":"1e5f33c6536700100c54ddeeff7b122d","breakdowns":[]},"preferredVisualizations":["18ac962264404bcc0039359d184b15f3"],"id":"aW5kaWNhdG9yMWU1ZjMzYzY1MzY3MDAxMDBjNTRkZGVlZmY3YjEyMmQxNzAwNDg4ODY4MjE5","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":true,"headerTitle":"% Escalations acknowledged (by groups)","showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"metrics":[{"dataSource":"aW5kaWNhdG9yMWU1ZjMzYzY1MzY3MDAxMDBjNTRkZGVlZmY3YjEyMmQxNzAwNDg4ODY4MjE5","id":"YVc1a2FXTmhkRzl5TVdVMVpqTXpZelkxTXpZM01EQXhNREJqTlRSa1pHVmxabVkzWWpFeU1tUXhOekF3TkRnNE9EWTRNakU1MTcwMDQ4ODg3MDYwOQ==","aggregateIndicator":"587fad00eb31020065deac6aa206fea5","frequency":40,"numberFormat":{"customFormat":false},"axisId":"primary","frequencyInterval":"MONTH_PLUS"}],"groupBy":[{"groupBy":[{"dataSource":"aW5kaWNhdG9yMWU1ZjMzYzY1MzY3MDAxMDBjNTRkZGVlZmY3YjEyMmQxNzAwNDg4ODY4MjE5","groupByField":"16f4489e536700100c54ddeeff7b1266","isRange":false,"isChoice":false,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","trendBy":{"trendByFrequency":"date","trendByFields":[{"field":"anything","metric":"YVc1a2FXTmhkRzl5TVdVMVpqTXpZelkxTXpZM01EQXhNREJqTlRSa1pHVmxabVkzWWpFeU1tUXhOekF3TkRnNE9EWTRNakU1MTcwMDQ4ODg3MDYwOQ=="}]},"showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":null,"showMetricLabel":null,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"filterConfigurations":[],"contextMenuActions":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":12,"showAbsolutePeriod":false,"scoreType":"latest","showChangeFrom":null,"startTime":null,"endTime":null,"period":"M","dateFormat":"default","noDebounce":true,"description":"Percentage of the escalations that are acknowledged.","componentId":"2dbwgfds","dataCategory":"group","selectedElements":[],"id":"refreshFrequency","value":null,"propLabel":"Live refresh rate (seconds)"}</component_props>
+        <h>18</h>
+        <name>% Escalations acknowledged (by groups)</name>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-07 09:36:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1d11c5d0c3d76e107bcd304d050131db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>% Escalations acknowledged (by groups)</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_widget_1d11c5d0c3d76e107bcd304d050131db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-07 09:36:53</sys_updated_on>
+        <visualization/>
+        <w>37</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>47ad7c5edbfef5d0ae4c9027c596196d</instance_id>
+        <instance_name>dev230527</instance_name>
+        <name>par_dashboard_widget_1d11c5d0c3d76e107bcd304d050131db</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">5511c5d0c3d76e107bcd304d050131d9</canvas><component display_value="Column">2bd5dc19a7ad083941b7c992a966dd78</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":false,"disableTooltip":false,"showXGrid":false,"showYGrid":true,"xAxisTitle":"","hideYAxis0":false,"yAxis0Position":"left","hideYAxis1":false,"yAxis1Position":"right","hideYAxis2":false,"yAxis2Position":"right","hideYAxis3":false,"yAxis3Position":"right","hideYAxis4":false,"yAxis4Position":"right","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"yAxisStyle":"default","lineStrokeWidth":"2","colorConfig":{"type":"default"},"chartVariation":"stacked","extensionType":"bar","newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"allowRealTime":false,"allowTotalValue":false,"indicatorType":"2","isScriptedIndicator":false,"label":"On-Call: % of Acknowledged Escalations","sourceType":"indicator","uuid":{"indicator":"1e5f33c6536700100c54ddeeff7b122d","breakdowns":[]},"preferredVisualizations":["18ac962264404bcc0039359d184b15f3"],"id":"aW5kaWNhdG9yMWU1ZjMzYzY1MzY3MDAxMDBjNTRkZGVlZmY3YjEyMmQxNzAwNDg4ODY4MjE5","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":true,"headerTitle":"% Escalations acknowledged (by groups)","showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"metrics":[{"dataSource":"aW5kaWNhdG9yMWU1ZjMzYzY1MzY3MDAxMDBjNTRkZGVlZmY3YjEyMmQxNzAwNDg4ODY4MjE5","id":"YVc1a2FXTmhkRzl5TVdVMVpqTXpZelkxTXpZM01EQXhNREJqTlRSa1pHVmxabVkzWWpFeU1tUXhOekF3TkRnNE9EWTRNakU1MTcwMDQ4ODg3MDYwOQ==","aggregateIndicator":"587fad00eb31020065deac6aa206fea5","frequency":40,"numberFormat":{"customFormat":false},"axisId":"primary","frequencyInterval":"MONTH_PLUS"}],"groupBy":[{"groupBy":[{"dataSource":"aW5kaWNhdG9yMWU1ZjMzYzY1MzY3MDAxMDBjNTRkZGVlZmY3YjEyMmQxNzAwNDg4ODY4MjE5","groupByField":"16f4489e536700100c54ddeeff7b1266","isRange":false,"isChoice":false,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","trendBy":{"trendByFrequency":"date","trendByFields":[{"field":"anything","metric":"YVc1a2FXTmhkRzl5TVdVMVpqTXpZelkxTXpZM01EQXhNREJqTlRSa1pHVmxabVkzWWpFeU1tUXhOekF3TkRnNE9EWTRNakU1MTcwMDQ4ODg3MDYwOQ=="}]},"showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":null,"showMetricLabel":null,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"filterConfigurations":[],"contextMenuActions":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":12,"showAbsolutePeriod":false,"scoreType":"latest","showChangeFrom":null,"startTime":null,"endTime":null,"period":"M","dateFormat":"default","noDebounce":true,"description":"Percentage of the escalations that are acknowledged.","componentId":"2dbwgfds","dataCategory":"group","selectedElements":[],"id":"refreshFrequency","value":null,"propLabel":"Live refresh rate (seconds)"}</component_props><h>18</h><name>% Escalations acknowledged (by groups)</name><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-07 09:36:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1d11c5d0c3d76e107bcd304d050131db</sys_id><sys_mod_count>0</sys_mod_count><sys_name>% Escalations acknowledged (by groups)</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>par_dashboard_widget_1d11c5d0c3d76e107bcd304d050131db</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-07 09:36:53</sys_updated_on><visualization/><w>37</w><widget_props/><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1246066448</payload_hash>
+        <record_name>% Escalations acknowledged (by groups)</record_name>
+        <reverted_from/>
+        <source>78a7347fc3b626107bcd304d0501317d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-07 09:36:53</sys_created_on>
+        <sys_id>5111c5d0c3d76e107bcd304d050131df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19883e3fd1f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-07 09:36:53</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>1511c5d08bd76e100153e3208b62c1de</update_guid>
+        <update_guid_history>1511c5d08bd76e100153e3208b62c1de:1246066448</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="% Escalations acknowledged (by groups)">9911c5d0c3d76e107bcd304d050131f5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-07 09:36:53</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>f2b9d58210f6426098f4340572401d10</sys_id>
+        <sys_metadata>1d11c5d0c3d76e107bcd304d050131db</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>% Escalations acknowledged (by groups)</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_1d11c5d0c3d76e107bcd304d050131db</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_1d11c5d0c3d76e107bcd304d050131db">5111c5d0c3d76e107bcd304d050131df</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-07 09:36:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
