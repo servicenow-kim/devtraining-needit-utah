@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="09882060c35bae107bcd304d05013156" extends="sys_import_set_row" label="Historic NeedIt Data" max_length="40" name="x_58872_needit_historic_needit_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=host_names" label="host_names" max_length="46" name="u_host_names" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=login_id" label="login_id" max_length="40" name="u_login_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=user_agent" label="user_agent" max_length="125" name="u_user_agent" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=login_user_cd" label="login_user_cd" max_length="40" name="u_login_user_cd" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=login_date" label="login_date" max_length="40" name="u_login_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=record_user_cd" label="record_user_cd" max_length="40" name="u_record_user_cd" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ip_addresses" label="ip_addresses" max_length="40" name="u_ip_addresses" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=login_language" label="login_language" max_length="40" name="u_login_language" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=record_date" label="record_date" max_length="40" name="u_record_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=create_user_cd" label="create_user_cd" max_length="40" name="u_create_user_cd" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=create_date" label="create_date" max_length="40" name="u_create_date" type="string"/>
+    </element>
+</database>
